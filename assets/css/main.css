@@ -4157,3 +4157,7 @@ input, select, textarea {
 		}
 
 	}
+
+	.list{
+		list-style: none;
+	}
